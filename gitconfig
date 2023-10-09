@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = willcaplan9@gmail.com
+	name = will caplan
